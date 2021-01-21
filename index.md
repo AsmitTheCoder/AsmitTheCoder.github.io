@@ -13,7 +13,7 @@
 		</style>
 	</head>
 	<body>
-		<a href='asmitthecoder.github.io'></a>
+		<a href='https://asmitthecoder.github.io'></a>
 		<p>WORK IN PROGRESS</p>
 	</body>
 </html>
