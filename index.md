@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title></AsmitTheCoder.githut.io></title>
+		<title>AsmitTheCoder.githut.io</title>
 		<style>
 			a{
 				color: red;
