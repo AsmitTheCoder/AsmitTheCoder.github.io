@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>AsmitTheCoder.githut.io</title>
+		<title>AsmitTheCoder.github.io</title>
 		<style>
 			a{
 				border-left: solid 5px green;
