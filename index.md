@@ -4,7 +4,7 @@
 		<style>
 			@font-family{
 				font-family:'pokemon';
-				src: url(.\f.ttf);
+				src: url(f.ttf);
 			}
 			a{
 				border-left: solid 5px green;
