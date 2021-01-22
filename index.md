@@ -2,6 +2,10 @@
 	<head>
 		<title>AsmitTheCoder.github.io</title>
 		<style>
+			@font-family{
+				font-family:'pokemon'
+				src: url(f.ttf);
+			}
 			a{
 				border-left: solid 5px green;
 				color: red;
@@ -17,12 +21,13 @@
 			header{
 				float: left;
 				position: fixed;
-				left: 50%;
-				right: 50%;
-				align-items: center;
+			}
+			header a{
+				font-family: 'pokemon';
+				font-size: 50px;
 			}
 		</style>
-	</head>
+	<head>
 	<body>
 		<header>
 			<a href='https://AsmitTheCoder.netlify.app'>Home</a>
