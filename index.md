@@ -14,9 +14,22 @@
 				background: yellow;
 				font-size: 50px;
 			}
+			header{
+				float: left;
+				position: fixed;
+				left: 50vw;
+				right: 50vw;
+				align-items: center;
+			}
 		</style>
 	</head>
 	<body>
+		<header>
+			<a href='https://AsmitTheCoder.netlify.app'>Home</a>
+			<a href='https://AsmitTheCoder.netlify.app/python.html'>Python</a>
+			<a href='https://AsmitTheCoder.netlify.app/python-adv.html'>Advanced Python</a>
+			<a href='https://AsmitTheCoder.netlify.app/about.html'>About Me</a>
+		</header>
 		<a href='https://AsmitTheCoder.github.io'></a>
 		<p>WORK IN PROGRESS</p>
 	</body>
