@@ -21,6 +21,9 @@
 				right: 50vw;
 				align-items: center;
 			}
+			header a{
+				width: 100%;
+			}
 		</style>
 	</head>
 	<body>
