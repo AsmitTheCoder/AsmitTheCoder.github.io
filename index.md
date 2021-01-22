@@ -17,12 +17,9 @@
 			header{
 				float: left;
 				position: fixed;
-				left: 50vw;
-				right: 50vw;
+				left: 50%;
+				right: 50%;
 				align-items: center;
-			}
-			header a{
-				width: 100%;
 			}
 		</style>
 	</head>
