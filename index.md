@@ -3,7 +3,7 @@
 		<title>AsmitTheCoder.github.io</title>
 		<style>
 			@font-family{
-				font-family:'pokemon'
+				font-family:'pokemon';
 				src: url(.\f.ttf);
 			}
 			a{
